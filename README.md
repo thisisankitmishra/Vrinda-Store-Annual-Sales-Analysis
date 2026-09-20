@@ -1,12 +1,22 @@
-# Vrinda Store Annual Sales Analysis
+<div align="center">
+
+# 📊 Vrinda Store Annual Sales Analysis
+
+**Excel-Based Sales Analytics & Interactive Dashboard**
+
+<img src="Vrinda_store.png" alt="Vrinda Store Annual Sales Analysis Dashboard" width="900"/>
+
+*Interactive Excel dashboard built to analyze 10,000+ sales records and identify customer, regional, and channel-wise sales trends.*
+
+</div>
+
+---
 
 ## 📌 Project Overview
 
 Vrinda Store Annual Sales Analysis is an Excel-based data analytics project focused on analyzing **10,000+ sales records** to understand customer purchasing behavior, sales performance, and channel-wise trends.
 
 The project uses **Advanced Excel, Pivot Tables, Charts, and an Interactive Dashboard** to convert raw sales data into actionable business insights.
-
----
 
 ## 🎯 Business Problem
 
@@ -19,8 +29,6 @@ Vrinda Store had a large volume of sales data, but raw transaction records made 
 * How can marketing efforts be targeted toward high-contributing customers?
 
 The objective was to analyze the data and identify patterns that could support better sales and marketing decisions.
-
----
 
 ## 💡 Solution
 
@@ -36,8 +44,6 @@ I analyzed **10,000+ sales records** using Advanced Excel and developed an inter
 * Identified high-contributing customer segments and markets.
 * Converted analytical findings into actionable business recommendations.
 
----
-
 ## 📊 Key Insights
 
 * **Women customers** contributed a higher share of purchases.
@@ -45,8 +51,6 @@ I analyzed **10,000+ sales records** using Advanced Excel and developed an inter
 * **Maharashtra, Karnataka, and Uttar Pradesh** were identified as key-performing states.
 * **Amazon, Flipkart, and Myntra** were major contributing sales channels.
 * Customer and channel-level analysis helped identify segments with higher sales contribution.
-
----
 
 ## 🚀 Business Impact
 
@@ -60,8 +64,6 @@ The analysis helped translate raw sales data into actionable insights that can s
 
 Overall, the dashboard provides a **data-driven approach to understanding sales performance and supporting marketing decisions.**
 
----
-
 ## 🛠️ Tools & Skills
 
 * **Microsoft Excel**
@@ -74,15 +76,11 @@ Overall, the dashboard provides a **data-driven approach to understanding sales 
 * **Customer Segmentation**
 * **Sales Analysis**
 
----
-
 ## 📁 Project Files
 
 * `Vrinda Store Annual Sales Analysis.xlsx` — Excel analysis and dashboard
 * `Dashboard.png` — Dashboard preview
 * `README.md` — Project documentation
-
----
 
 ## 📌 Project Outcome
 
